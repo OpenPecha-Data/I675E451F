@@ -1,4 +1,4 @@
-id: ab89b311774d4ac3b9a2765abea35b26
+id: 678bbd3674874af1a8522a96c6670894
 annotation_type: Pagination
 revision: '00001'
 annotations:
@@ -7,13 +7,13 @@ annotations:
       start: 0
       end: 136
     imgnum: 3
-    reference: I1KG54810003.tif
+    reference: I1KG54810003.jpg
   738d3aa34aa64adbbc37e829d1825f31:
     span:
       start: 138
       end: 164
     imgnum: 4
-    reference: I1KG54810004.tif
+    reference: I1KG54810004.jpg
   edf182586fab40e59ec0b6f2ead80898:
     span:
       start: 166
